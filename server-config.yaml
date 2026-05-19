@@ -1,0 +1,5 @@
+port: 8080
+address: "0.0.0.0"
+shared_secret: "my-super-secret-key-123!"
+cert_file: "server.crt"
+key_file: "server.key"

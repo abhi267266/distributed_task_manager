@@ -1,0 +1,4 @@
+server_url: "https://localhost:8080"
+interval: 10
+shared_secret: "my-super-secret-key-123!"
+server_cert_file: "server.crt"
