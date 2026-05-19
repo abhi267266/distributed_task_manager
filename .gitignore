@@ -1,0 +1,16 @@
+# Binaries
+/agent
+/server
+
+# Certificates & Keys
+*.key
+*.crt
+
+# State files
+.agent_id
+
+# Documentation & Diagrams
+PLANS.md
+SKILLS.md
+agent-lifecycle.png
+server_lifecycle.png
